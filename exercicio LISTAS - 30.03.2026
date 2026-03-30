@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Listas</title>
+</head>
+<body>
+    <h1>Conteúdos de LPW1</h1>
+    <h2>Temas que vamos abordar:</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+    </ul>
+
+    <h2>Como aprender HTML?</h2>
+    <ol>
+        <li>Entender a estrutura básica de uma página HTML</li>
+        <li>Aprender as principais tags de texto</li>
+        <li>Criar páginas com links e imagens</li>
+        <li>Organizar conteúdos em listas</li>
+        <li>Estruturar informações com tabelas</li>
+    </ol>
+
+    <h2>Plano de estudos</h2>
+    <ol>
+        <li>Aprender HTML:</li>
+        <ul>
+            <li>Tags básicas</li>
+            <li>Listas</li>
+            <li>Tabelas</li>
+        </ul>
+        <li>Aprender CSS:</li>
+        <ul>
+            <li>Cores</li>
+            <li>Layout</li>
+        </ul>
+        <li>Aprender JavaScript:</li>
+        <ul>
+            <li>Variáveis</li>
+            <li>Eventos</li>
+        </ul>
+    </ol>
+
+    <a href="https://sofialcamargo.github.io/meu-primeiro-repositorio/">Voltar a página inicial</a>
+
+</body>
+</html>
